@@ -1,0 +1,19 @@
+section ul {
+    margin: 0 250px 50px 250px;
+    list-style-type: circle;
+    }
+blockquote p{
+  margin: 0 250px 50px 250px;
+}
+ul li {
+  margin: 10px 0
+}
+#tribute-link  {
+padding: 0 0  40px 0;
+}
+  
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
